@@ -1,0 +1,48 @@
+body{
+        background-color: lch(48.7% 79.58 34.07 / 0.925);
+    }
+h1{
+            background-color:lab(96.99% -1.72 4.79);
+            color: lch(54.91% 62.14 140.01 / 0.836);
+            border: Solid;
+            border-radius:20px;
+            border-color: hsl(305, 91%, 65%);
+            border-width:10px;
+            border-style:groove;
+            padding:20px;
+            text-align: center
+ }
+body{
+            background-color: hwb(22 71% 7%);
+}
+*{
+        padding: 1px;
+        margin: 1px;
+}
+#header{
+            margin: auto;
+            width: 1050px;
+}
+ul, ol {
+            list-style: none;
+}
+.nav li a{
+                background-color: lab(4.31% 0 0 / 0.555);
+                color: #FFF;
+                text-decoration: none;
+                padding: 10px 20px;
+                display: block;
+}
+.nav > li{
+            float:left;
+}
+.nav li a:hover{
+        background-color: lab(60.87% 72.91 -6.04);
+}                              
+ p, h2{
+       font-size: 20px;
+       color: hsl(0, 4%, 10%);
+        text-align:center;
+        text-align: justify;
+        
+}

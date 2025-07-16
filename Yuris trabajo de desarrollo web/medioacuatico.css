@@ -1,0 +1,48 @@
+body{
+        background-color: rgba(240, 248, 202, 0.925);
+    }
+h1{
+            background-color:lab(89.94% -40.72 45.99);
+            color: rgba(239, 248, 217, 0.918);
+            border: Solid;
+            border-radius:20px;
+            border-color: hsl(355, 85%, 24%);
+            border-width:10px;
+            border-style:groove;
+            padding:20px;
+            text-align: center
+ }
+body{
+            background-color: lch(91.88% 4.53 313.41);
+}
+*{
+        padding: 1px;
+        margin: 1px;
+}
+#header{
+            margin: auto;
+            width: 1000px;;
+}
+ul, ol {
+            list-style: none;
+}
+.nav li a{
+                background-color: lch(35.23% 62.48 342.56);
+                color: hwb(83 63% 0%);
+                text-decoration: none;
+                padding: 10px 10px;
+                display: block;
+}
+.nav > li{
+            float:left;
+}
+.nav li a:hover{
+        background-color: hwb(300 73% 25%);
+}                              
+ p, h2{
+       font-size: 20px;
+       color: hsl(0, 4%, 10%);
+        text-align:center;
+        text-align: justify;
+        
+}

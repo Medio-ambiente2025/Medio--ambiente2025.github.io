@@ -1,0 +1,49 @@
+
+body{
+        background-color: #5dffe4ce;
+    }
+h1{
+            background-color:lab(76.45% 52.46 -32.74);
+            color: lch(3.87% 0.59 144.49 / 0.836);
+            border: Solid;
+            border-radius:20px;
+            border-color: hwb(306 76% 8% / 0.733);
+            border-width:10px;
+            border-style:groove;
+            padding:20px;
+            text-align: center
+ }
+body{
+            background-color: lab(28.99% 48.87 36.14);
+}
+*{
+        padding: 1px;
+        margin: 1px;
+}
+#header{
+            margin: auto;
+            width: 1050px;
+}
+ul, ol {
+            list-style: none;
+}
+.nav li a{
+                background-color: hwb(51 0% 2% / 0.87);
+                color: #FFF;
+                text-decoration: none;
+                padding: 10px 20px;
+                display: block;
+}
+.nav > li{
+            float:left;
+}
+.nav li a:hover{
+        background-color: lab(81.54% -26.63 -28.56 / 0.753);
+}                              
+ p, h2{
+       font-size: 20px;
+       color: hwb(0 95% 4%);
+        text-align:center;
+        text-align: justify;
+        
+}
